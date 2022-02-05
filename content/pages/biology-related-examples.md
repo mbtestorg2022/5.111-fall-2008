@@ -10,41 +10,714 @@ A list of the biology-, medicine-, and MIT research-related examples used in 5.1
 
 To reinforce the connections formed in lecture, we also include biology-related problems in each homework assignment. Selected homework problems and solutions are available below.
 
-| SES # | Lecture TOPICS | BIOLOGICAL EXAMPLES | BIOLOGY-RELATED HOMEWORK  PROBLEMS and IN-CLASS DEMONSTRATIONS / ACTIVITES |
-| --- | --- | --- | --- |
-| L1 | The importance of chemical principles | Chemical principles in research at MIT | &nbsp; |
-| L2 | Discovery of electron and nucleus, need for quantum mechanics | &nbsp; | **Activity.** Rutherford backscattering experiment with ping-pong ball alpha particles |
-| L3 | Wave-particle duality of light | Quantum dot research at MIT ([PDF]({{< baseurl >}}/resources/bioex_lect3)) | &nbsp; |
-| L4 | Wave-particle duality of matter, Schrödinger equation | &nbsp; | **Demo.** Photoelectric effect demonstration |
-| L5 | Hydrogen atom energy levels | &nbsp; | **Demo.** Viewing the hydrogen atom spectrum |
-| L6 | Hydrogen atom wavefunctions (orbitals) | &nbsp; |
-| L7 | p-orbitals | &nbsp; |
-| L8 | Multielectron atoms and electron configurations | &nbsp; |
-| L9 | Periodic trends | Alkali earth metals in the body: Na and K versus Li (lithiated 7-up) ([PDF]({{< baseurl >}}/resources/bioex_lect9)) |  {{< br >}}{{< br >}} Selected biology-related questions based on Lecture 1-9. ([PDF]({{< baseurl >}}/resources/l1to9bio)) {{< br >}}{{< br >}} Answer key ([PDF]({{< baseurl >}}/resources/l1to9bio_key)) {{< br >}}{{< br >}}  |
-| L10 | Periodic trends continued; covalent bonds | Atomic size: sodium ion channels in neurons ([PDF]({{< baseurl >}}/resources/bioex_lect10)) | &nbsp; |
-| L11 | Lewis structures |  {{< br >}}{{< br >}} Lewis sturucture examples: {{< br >}}{{< br >}} 1) Cyanide ion in cassava plants, cigarettes {{< br >}}{{< br >}} 2) Thionyl chloride for the synthesis of novacaine {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bioex_lect11)) {{< br >}}{{< br >}}  | &nbsp; |
-| L12 |  {{< br >}}{{< br >}} Exceptions to Lewis structure rules; Ionic bonds {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1) Free radicals in biology (in DNA damage _and_ essential for life) {{< br >}}{{< br >}} 2) Lewis structure example: Nitric Oxide (NO) in vasodilation (and Viagra) {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bioex_lect12)) {{< br >}}{{< br >}}  | &nbsp; |
-| L13 |  {{< br >}}{{< br >}} Polar covalent bonds; VSEPR theory {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1) Water versus fat-soluble vitamins (comparing folic acid and vitamin A) {{< br >}}{{< br >}} 2) Molecuar shape: importance in enzyme-substrate complexes {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bioex_lect13)) {{< br >}}{{< br >}}  | &nbsp; |
-| L14 | Molecular orbital theory |  {{< br >}}{{< br >}} 2008 Nobel Prize in chemistry: Green Flourescent Protein (GFP) ([PDF]({{< baseurl >}}/resources/bioex_lect14)) {{< br >}}{{< br >}}  | &nbsp; |
-| L15 | Valence bond theory and hybridization | Restriction of rotation around double bonds: application to drug design ([PDF]({{< baseurl >}}/resources/bioex_lect15)) | &nbsp; |
-| L16 |  {{< br >}}{{< br >}} Determining hybridization in complex molecules; Thermochemistry and bond energies / bond enthalpies {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 1) Hybridization example: ascorbic acid (vitamin C) {{< br >}}{{< br >}} 2) Thermochemistry of glucose oxidation: harnessing energy from plants {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bioex_lect16)) {{< br >}}{{< br >}}  | &nbsp; |
-| L17 | Entropy and disorder |  {{< br >}}{{< br >}} 1) Hybridization example: identifying molecules that follow the "morphine rule" {{< br >}}{{< br >}} 2) ATP hydrolysis in the body {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bioex_lect17)) {{< br >}}{{< br >}}  | &nbsp; |
-| L18 | Free energy and control of spontaneity |  {{< br >}}{{< br >}} 1) ATP-coupled reactions in biology {{< br >}}{{< br >}} 2) Thermodynamics of hydrogen bonding: relevance to DNA replication {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bioex_lect18)) {{< br >}}{{< br >}}  | &nbsp; |
-| L19 | Chemical equilibrium | &nbsp; |
-| L20 | Le Chatelier's principle and applications to blood-oxygen levels |  {{< br >}}{{< br >}} 1) Maximizing the yield of nitrogen fixation: inspiration from bacteria {{< br >}}{{< br >}} 2) Le Chatelier's principle and hemoglobin: blood-oxygen levels {{< br >}}{{< br >}} ([PDF - 2.7 MB]({{< baseurl >}}/resources/bioex_lect20)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Selected biology-related questions based on Lectures 10-20 ([PDF]({{< baseurl >}}/resources/l10to20bio)) {{< br >}}{{< br >}} Answer key ([PDF]({{< baseurl >}}/resources/l10to20bio_key)) {{< br >}}{{< br >}}  |
-| L21 | Acid-base equilibrium: Is MIT water safe to drink? | &nbsp; | **Demo.** Determining pH of household items using a color indicator from cabbage leaves |
-| L22 | Chemical and biological buffers |  {{< br >}}{{< br >}}  | &nbsp; |
-| L23 | Acid-base titrations |  {{< br >}}{{< br >}} pH and blood-effects from vitamin B12 deficiancy ([PDF - 2.4 MB]({{< baseurl >}}/resources/bioex_lect23)) {{< br >}}{{< br >}}  | &nbsp; |
-| L24 | Balancing oxidation/reduction equations | &nbsp; |
-| L25 | Electrochemical cells | Oxidative metabolism of drugs ([PDF]({{< baseurl >}}/resources/bioex_lect25)) | **Demo.** Oxidation of magnesium (resulting in a glowing block of dry ice) |
-| L26 | Chemical and biological oxidation/reduction reactions |  {{< br >}}{{< br >}} Reduction of vitamin B12 in the body ([PDF]({{< baseurl >}}/resources/bioex_lect26)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Selected biology-related questions based on Lectures 21-26 ([PDF]({{< baseurl >}}/resources/l21to26bio)) {{< br >}}{{< br >}} Answer key ([PDF]({{< baseurl >}}/resources/l21to26bio_key)) {{< br >}}{{< br >}}  |
-| L27 | Transition metals and the treatment of lead poisoning |  {{< br >}}{{< br >}} 1) Metal chelation in the treatment of lead poisoning {{< br >}}{{< br >}} 2) Geometric isomers and drugs: i.e. the anti-cancer drug cisplatin {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/bioex_lect27)) {{< br >}}{{< br >}}  | &nbsp; |
-| L28 | Crystal field theory | &nbsp; |
-| L29 | Metals in biology |  {{< br >}}{{< br >}} Inspiration from metalloenzymes for the reduction of greenhouse gasses ([PDF - 1.3 MB]({{< baseurl >}}/resources/bioex_lect29)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Activity.** Toothpick models: gumdrop d-orbitals, jelly belly metals and ligands {{< br >}}{{< br >}}  |
-| L30 | Magnetism and spectrochemical theory |  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Demo.** Oscillating clock reaction {{< br >}}{{< br >}}  |
-| L31 | Rate laws |  {{< br >}}{{< br >}} Kinetics of glucose oxidation (energy production) in the body ([PDF]({{< baseurl >}}/resources/bioex_lect31)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Activity.** Hershey kiss "experment" on the oxidation of glucose {{< br >}}{{< br >}}  |
-| L32 | Nuclear chemistry and elementary reactions |  {{< br >}}{{< br >}} Medical applications of radioactive decay (technetium-99) ([PDF]({{< baseurl >}}/resources/bioex_lect32)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} "Days of Our Halflives" poem {{< br >}}{{< br >}}  |
-| L33 | Reaction mechanism | Reaction mechanism of ozone decomposition ([PDF]({{< baseurl >}}/resources/bioex_lect33)) | &nbsp; |
-| L34 | Temperature and kinetics | &nbsp; |  {{< br >}}{{< br >}} **Demo.** Liquid nitrogen (glowsticks: slowing the chemiluminescent reaction) {{< br >}}{{< br >}}  |
-| L35 | Enzyme catalysis | Eyzmes as the catalysts of life, inhibitors (i.e. HIV protease inhibitors) ([PDF]({{< baseurl >}}/resources/bioex_lect35)) | &nbsp; |
-| L36 | Biochemistry | The methionine synthase case study (chemistry in solution!) ([PDF]({{< baseurl >}}/resources/bioex_lect36)) |  {{< br >}}{{< br >}} Selected biology-related questions based on Lectures 27-36 ([PDF]({{< baseurl >}}/resources/l27to36bio)) {{< br >}}{{< br >}} Answer key ([PDF]({{< baseurl >}}/resources/l27to36bio_key)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Lecture TOPICS
+{{< thclose >}}
+{{< thopen >}}
+BIOLOGICAL EXAMPLES
+{{< thclose >}}
+{{< thopen >}}
+BIOLOGY-RELATED HOMEWORK  PROBLEMS and IN-CLASS DEMONSTRATIONS / ACTIVITES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+The importance of chemical principles
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical principles in research at MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Discovery of electron and nucleus, need for quantum mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Activity.** Rutherford backscattering experiment with ping-pong ball alpha particles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Wave-particle duality of light
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum dot research at MIT ([PDF]({{< baseurl >}}/resources/bioex_lect3))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Wave-particle duality of matter, Schrödinger equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Demo.** Photoelectric effect demonstration
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen atom energy levels
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Demo.** Viewing the hydrogen atom spectrum
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Hydrogen atom wavefunctions (orbitals)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+p-orbitals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Multielectron atoms and electron configurations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Periodic trends
+{{< tdclose >}}
+{{< tdopen >}}
+Alkali earth metals in the body: Na and K versus Li (lithiated 7-up) ([PDF]({{< baseurl >}}/resources/bioex_lect9))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selected biology-related questions based on Lecture 1-9. ([PDF]({{< baseurl >}}/resources/l1to9bio))
+
+Answer key ([PDF]({{< baseurl >}}/resources/l1to9bio_key))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Periodic trends continued; covalent bonds
+{{< tdclose >}}
+{{< tdopen >}}
+Atomic size: sodium ion channels in neurons ([PDF]({{< baseurl >}}/resources/bioex_lect10))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Lewis structures
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lewis sturucture examples:
+
+1) Cyanide ion in cassava plants, cigarettes
+
+2) Thionyl chloride for the synthesis of novacaine
+
+([PDF]({{< baseurl >}}/resources/bioex_lect11))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exceptions to Lewis structure rules; Ionic bonds
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1) Free radicals in biology (in DNA damage _and_ essential for life)
+
+2) Lewis structure example: Nitric Oxide (NO) in vasodilation (and Viagra)
+
+([PDF]({{< baseurl >}}/resources/bioex_lect12))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Polar covalent bonds; VSEPR theory
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1) Water versus fat-soluble vitamins (comparing folic acid and vitamin A)
+
+2) Molecuar shape: importance in enzyme-substrate complexes
+
+([PDF]({{< baseurl >}}/resources/bioex_lect13))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular orbital theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+2008 Nobel Prize in chemistry: Green Flourescent Protein (GFP) ([PDF]({{< baseurl >}}/resources/bioex_lect14))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Valence bond theory and hybridization
+{{< tdclose >}}
+{{< tdopen >}}
+Restriction of rotation around double bonds: application to drug design ([PDF]({{< baseurl >}}/resources/bioex_lect15))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Determining hybridization in complex molecules; Thermochemistry and bond energies / bond enthalpies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1) Hybridization example: ascorbic acid (vitamin C)
+
+2) Thermochemistry of glucose oxidation: harnessing energy from plants
+
+([PDF]({{< baseurl >}}/resources/bioex_lect16))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Entropy and disorder
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1) Hybridization example: identifying molecules that follow the "morphine rule"
+
+2) ATP hydrolysis in the body
+
+([PDF]({{< baseurl >}}/resources/bioex_lect17))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Free energy and control of spontaneity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1) ATP-coupled reactions in biology
+
+2) Thermodynamics of hydrogen bonding: relevance to DNA replication
+
+([PDF]({{< baseurl >}}/resources/bioex_lect18))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Le Chatelier's principle and applications to blood-oxygen levels
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1) Maximizing the yield of nitrogen fixation: inspiration from bacteria
+
+2) Le Chatelier's principle and hemoglobin: blood-oxygen levels
+
+([PDF - 2.7 MB]({{< baseurl >}}/resources/bioex_lect20))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selected biology-related questions based on Lectures 10-20 ([PDF]({{< baseurl >}}/resources/l10to20bio))
+
+Answer key ([PDF]({{< baseurl >}}/resources/l10to20bio_key))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Acid-base equilibrium: Is MIT water safe to drink?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Demo.** Determining pH of household items using a color indicator from cabbage leaves
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical and biological buffers
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Acid-base titrations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+pH and blood-effects from vitamin B12 deficiancy ([PDF - 2.4 MB]({{< baseurl >}}/resources/bioex_lect23))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Balancing oxidation/reduction equations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Electrochemical cells
+{{< tdclose >}}
+{{< tdopen >}}
+Oxidative metabolism of drugs ([PDF]({{< baseurl >}}/resources/bioex_lect25))
+{{< tdclose >}}
+{{< tdopen >}}
+**Demo.** Oxidation of magnesium (resulting in a glowing block of dry ice)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L26
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical and biological oxidation/reduction reactions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reduction of vitamin B12 in the body ([PDF]({{< baseurl >}}/resources/bioex_lect26))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selected biology-related questions based on Lectures 21-26 ([PDF]({{< baseurl >}}/resources/l21to26bio))
+
+Answer key ([PDF]({{< baseurl >}}/resources/l21to26bio_key))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L27
+{{< tdclose >}}
+{{< tdopen >}}
+Transition metals and the treatment of lead poisoning
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1) Metal chelation in the treatment of lead poisoning
+
+2) Geometric isomers and drugs: i.e. the anti-cancer drug cisplatin
+
+([PDF]({{< baseurl >}}/resources/bioex_lect27))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L28
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal field theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L29
+{{< tdclose >}}
+{{< tdopen >}}
+Metals in biology
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Inspiration from metalloenzymes for the reduction of greenhouse gasses ([PDF - 1.3 MB]({{< baseurl >}}/resources/bioex_lect29))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Activity.** Toothpick models: gumdrop d-orbitals, jelly belly metals and ligands
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L30
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetism and spectrochemical theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Demo.** Oscillating clock reaction
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L31
+{{< tdclose >}}
+{{< tdopen >}}
+Rate laws
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kinetics of glucose oxidation (energy production) in the body ([PDF]({{< baseurl >}}/resources/bioex_lect31))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Activity.** Hershey kiss "experment" on the oxidation of glucose
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L32
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear chemistry and elementary reactions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Medical applications of radioactive decay (technetium-99) ([PDF]({{< baseurl >}}/resources/bioex_lect32))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Days of Our Halflives" poem
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L33
+{{< tdclose >}}
+{{< tdopen >}}
+Reaction mechanism
+{{< tdclose >}}
+{{< tdopen >}}
+Reaction mechanism of ozone decomposition ([PDF]({{< baseurl >}}/resources/bioex_lect33))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L34
+{{< tdclose >}}
+{{< tdopen >}}
+Temperature and kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Demo.** Liquid nitrogen (glowsticks: slowing the chemiluminescent reaction)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L35
+{{< tdclose >}}
+{{< tdopen >}}
+Enzyme catalysis
+{{< tdclose >}}
+{{< tdopen >}}
+Eyzmes as the catalysts of life, inhibitors (i.e. HIV protease inhibitors) ([PDF]({{< baseurl >}}/resources/bioex_lect35))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L36
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+The methionine synthase case study (chemistry in solution!) ([PDF]({{< baseurl >}}/resources/bioex_lect36))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selected biology-related questions based on Lectures 27-36 ([PDF]({{< baseurl >}}/resources/l27to36bio))
+
+Answer key ([PDF]({{< baseurl >}}/resources/l27to36bio_key))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

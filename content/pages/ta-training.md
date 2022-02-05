@@ -23,26 +23,316 @@ Below we provide some general expectations for Teaching Assistants. TAing this c
 Training Schedule
 -----------------
 
-| DAY/TIME | TOPICS | HOMEWORK |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Day 1**{{< /td-colspan >}} |||
-| 9:30 - 10:30 | {{< h 3 >}}Welcome and introduction to 5.111{{< /h >}} {{< br >}}{{< br >}} Introduction of the 5.111 faculty. {{< br >}}{{< br >}} Discussion on goals of the course, goals of TA training, and resources for TAs and students. {{< br >}}{{< br >}}  | Practice exams and biology-related problems were sent to each TA over the summer. These were provided to familiarize you with the problem types in 5.111 and to help you identify concepts that you may need to spend extra time on during training or during the course. Please attempt all problems prior to training, and come prepared with questions. |
-| 10:30 - 11:30 | {{< h 3 >}}Teambuilding{{< /h >}} {{< br >}}{{< br >}} Discussion-based teambuilding exercises. TA pictures. The pictures will be used to make a TA information sheet with pictures and email addresses to be distributed on Day 2. {{< br >}}{{< br >}}  |
-| 11:30 - 12:30 | {{< h 3 >}}Chemical principles in biology and medicine{{< /h >}} {{< br >}}{{< br >}} A presentation of representative biological examples that will be introduced during 5.111 lectures. {{< br >}}{{< br >}}  |
-| 12:30 - 3:00 | {{< h 3 >}}Group activity{{< /h >}} {{< br >}}{{< br >}} Lego DNA activity at the MIT museum {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Day 2**{{< /td-colspan >}} |||
-| 9:00 - 10:30 | {{< h 3 >}}Challenges in teaching 5.111 recitations- part I{{< /h >}} {{< br >}}{{< br >}} Discussion and role playing led by former 5.111 recitation TAs. ([PDF]({{< baseurl >}}/resources/casestudies)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Review the acid-base problems from the practice exams. {{< br >}}{{< br >}} {{< h 3 >}}Reading assignment:{{< /h >}} {{< br >}}{{< br >}} Cohen, G. L. and C. M. Steele. "A barrier of mistrust: How negative stereotypes affect cross-race mentoring". Chap. 15 in _Improving Academic Achievement: Impact of Psychological Factors on Education_. Edited by J. Aronson. pp. 305-331. San Diego, CA: Academic Press, 2002. ISBN: 9780120644551. {{< br >}}{{< br >}} Prepare a 6-10 minute [microteaching](https://tll.mit.edu/programming/grad-student-programming/microteaching-cohort-program/) lesson for Day 3. {{< br >}}{{< br >}}  |
-| 10:30 - 11:30 | {{< h 3 >}}Question and answer on practice exams and selection of microteaching assignments{{< /h >}} {{< br >}}{{< br >}} Q/A session on any problems from the exams. Discussion of Microteaching strategies and expectations. TAs will select a problem for microteaching. {{< br >}}{{< br >}}  |
-| 11:30 - 12:00 | {{< h 3 >}}Tour of the 5.111 classroom, chemical education office, and recitation rooms{{< /h >}} |
-| 1:00 - 2:00 | {{< h 3 >}}Diversity workshop{{< /h >}} {{< br >}}{{< br >}} A discussion of diversity issues in 5.111 based on the assigned reading {{< br >}}{{< br >}}  |
-| 2:00 - 3:30 | {{< h 3 >}}Strategies for teaching acid-base titration problems{{< /h >}} {{< br >}}{{< br >}} An overview of how to approach acid-base problems, one of the most difficult concepts for 5.111 students (using lecture notes from lectures 21 through 23) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Day 3**{{< /td-colspan >}} |||
-| 2:00 - 5:30 | {{< h 3 >}}Microteaching practice session{{< /h >}} {{< br >}}{{< br >}} TAs present microteaching problems with immediate class feedback and discussion. {{< br >}}{{< br >}}  | Write out your tentative course schedule and preferred recitation time slots. |
-| {{< td-colspan 4 >}}**Day 4**{{< /td-colspan >}} ||||
-| 9:15 - 10:15 | {{< h 3 >}}Recitation assignments and Q/A on course selection{{< /h >}} {{< br >}}{{< br >}} Selection of recitation time slots and an opportunity to ask questions about graduate course selection. {{< br >}}{{< br >}}  | Finalize your 6-10 minute microteaching lesson for Day 5. |
-| 10:15 - 11:00 | {{< h 3 >}}Classroom clicker demonstration{{< /h >}} {{< br >}}{{< br >}} Demonstration on using classroom response devices and an overview of 5.111 clicker policies. {{< br >}}{{< br >}}  |
-| 11:00 - 12:00 | {{< h 3 >}}"Interactive Learning" workshop{{< /h >}} {{< br >}}{{< br >}} This activity has been run as a joint activity with all chemistry TAs in the department or as an activity with 5.111 TAs only. For the 5.111-only version (1.5 hours), we use activities from: {{< br >}}{{< br >}} Handelsman, Jo, Sarah Miller, and Christine Pfund. "Active Learning." Chap. 2 in _Scientific Teaching_. New York, NY: W. H. Freeman and Company, 2006. ISBN: 9781429201889. {{< br >}}{{< br >}}  |
-| 1:30 - 3:00 | {{< h 3 >}}Challenges in teaching 5.111 recitations - part II{{< /h >}} {{< br >}}{{< br >}} Discussion and role playing led by former 5.111 recitation TAs. ([PDF]({{< baseurl >}}/resources/casestudies)) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Day 5**{{< /td-colspan >}} |||
-| 9:00 - 12:00 | {{< h 3 >}}Microteaching taping{{< /h >}} | &nbsp; |
-| 12:00 - 1:00 | {{< h 3 >}}Wrap-up and assessment{{< /h >}} {{< br >}}{{< br >}} Discussion of expectations for the first day of teaching and of what worked or didn't work in the TA training. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY/TIME
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+HOMEWORK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Day 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9:30 - 10:30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Welcome and introduction to 5.111
+
+Introduction of the 5.111 faculty.
+
+Discussion on goals of the course, goals of TA training, and resources for TAs and students.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Practice exams and biology-related problems were sent to each TA over the summer. These were provided to familiarize you with the problem types in 5.111 and to help you identify concepts that you may need to spend extra time on during training or during the course. Please attempt all problems prior to training, and come prepared with questions.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10:30 - 11:30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Teambuilding
+
+Discussion-based teambuilding exercises. TA pictures. The pictures will be used to make a TA information sheet with pictures and email addresses to be distributed on Day 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11:30 - 12:30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Chemical principles in biology and medicine
+
+A presentation of representative biological examples that will be introduced during 5.111 lectures.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12:30 - 3:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Group activity
+
+Lego DNA activity at the MIT museum
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Day 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9:00 - 10:30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Challenges in teaching 5.111 recitations- part I
+
+Discussion and role playing led by former 5.111 recitation TAs. ([PDF]({{< baseurl >}}/resources/casestudies))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review the acid-base problems from the practice exams.
+
+### Reading assignment:
+
+Cohen, G. L. and C. M. Steele. "A barrier of mistrust: How negative stereotypes affect cross-race mentoring". Chap. 15 in _Improving Academic Achievement: Impact of Psychological Factors on Education_. Edited by J. Aronson. pp. 305-331. San Diego, CA: Academic Press, 2002. ISBN: 9780120644551.
+
+Prepare a 6-10 minute [microteaching](https://tll.mit.edu/programming/grad-student-programming/microteaching-cohort-program/) lesson for Day 3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10:30 - 11:30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Question and answer on practice exams and selection of microteaching assignments
+
+Q/A session on any problems from the exams. Discussion of Microteaching strategies and expectations. TAs will select a problem for microteaching.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11:30 - 12:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Tour of the 5.111 classroom, chemical education office, and recitation rooms
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1:00 - 2:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Diversity workshop
+
+A discussion of diversity issues in 5.111 based on the assigned reading
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2:00 - 3:30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Strategies for teaching acid-base titration problems
+
+An overview of how to approach acid-base problems, one of the most difficult concepts for 5.111 students (using lecture notes from lectures 21 through 23)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Day 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2:00 - 5:30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Microteaching practice session
+
+TAs present microteaching problems with immediate class feedback and discussion.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Write out your tentative course schedule and preferred recitation time slots.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Day 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9:15 - 10:15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Recitation assignments and Q/A on course selection
+
+Selection of recitation time slots and an opportunity to ask questions about graduate course selection.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finalize your 6-10 minute microteaching lesson for Day 5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10:15 - 11:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Classroom clicker demonstration
+
+Demonstration on using classroom response devices and an overview of 5.111 clicker policies.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11:00 - 12:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### "Interactive Learning" workshop
+
+This activity has been run as a joint activity with all chemistry TAs in the department or as an activity with 5.111 TAs only. For the 5.111-only version (1.5 hours), we use activities from:
+
+Handelsman, Jo, Sarah Miller, and Christine Pfund. "Active Learning." Chap. 2 in _Scientific Teaching_. New York, NY: W. H. Freeman and Company, 2006. ISBN: 9781429201889.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1:30 - 3:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Challenges in teaching 5.111 recitations - part II
+
+Discussion and role playing led by former 5.111 recitation TAs. ([PDF]({{< baseurl >}}/resources/casestudies))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Day 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9:00 - 12:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Microteaching taping
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12:00 - 1:00
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Wrap-up and assessment
+
+Discussion of expectations for the first day of teaching and of what worked or didn't work in the TA training.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
