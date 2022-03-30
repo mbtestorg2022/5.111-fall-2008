@@ -4,6 +4,7 @@ description: 'Lecture review on maximizing the yield of nitrogen fixation: inspi
   from bacteria, and Le Chatelier''s principle and hemoglobin: blood-oxygen levels.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-111-principles-of-chemical-science-fall-2008/0a46d341fca3c024db28a3a2ed0e8af2_bioex_lect20.pdf
 file_type: application/pdf
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: "Le Ch\xE2telier\u2019s Principle"
 uid: 0a46d341-fca3-c024-db28-a3a2ed0e8af2

@@ -5,6 +5,7 @@ description: Lecture notes on the hydrogen atom, binding energies of the electro
   absorption, and wavefunctions (orbitals) for the hydrogen atom.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-111-principles-of-chemical-science-fall-2008/8e34777f5126be8f77b52440499df440_lecnotes05.pdf
 file_type: application/pdf
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Hydrogen atom energy levels
 uid: 8e34777f-5126-be8f-77b5-2440499df440

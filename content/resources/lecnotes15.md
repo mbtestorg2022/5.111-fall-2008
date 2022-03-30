@@ -5,6 +5,7 @@ description: Lecture notes on valence bond theory and hybridization, sigma and p
   sp hybridization.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-111-principles-of-chemical-science-fall-2008/d0305cc4a32eb60f31463126150b1026_lecnotes15.pdf
 file_type: application/pdf
+parent_uid: 50ef108c-fdf3-2139-3c6d-b5f225678fb3
 resourcetype: Document
 title: Valence bond theory and hybridization
 uid: d0305cc4-a32e-b60f-3146-3126150b1026

@@ -4,6 +4,7 @@ description: Solutions to selected biology-related questions from problem sets f
   lectures 10-20.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-111-principles-of-chemical-science-fall-2008/cabc730e59bc9aeace9cd81046e2b063_L10to20Bio_Key.pdf
 file_type: application/pdf
+parent_uid: d3155b63-ec67-4335-5375-ea901b2a4f4e
 resourcetype: Document
 title: Solutions to selected biology-related questions from problem sets for lectures
   10-20
